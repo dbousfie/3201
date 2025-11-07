@@ -267,11 +267,11 @@ following assessments with built-in flexibility.
 Flexible Completion assignments:
 
 Weekly participation. This course has 12 weekly participation
-assignments, and the 10 quizzes with the highest marks are counted
+assignments, and the 8 quizzes with the highest marks are counted
 towards your final grade. Should extenuating circumstances arise,
-students do not need to request Academic Consideration for the first 2
+students do not need to request Academic Consideration for the first 4
 missed weekly participations. Academic consideration requests will be
-denied for the first 2 missed weekly participation assignments.
+denied for the first 4 missed weekly participation assignments.
 
 Religious Accommodation
 
@@ -323,62 +323,64 @@ submitted to the system. Use of the service is subject to the licensing
 agreement, currently between The University of Western Ontario and
 Turnitin.com ([http://www.turnitin.com](http://www.turnitin.com/)).
 
-## Weekly Participation -- 25% (Weekly submissions) 
+## Weekly Participation -- (Weekly submissions) 
 
 Weekly Assignments -- Base submission is pass/fail 70% (17.5 of 25)
 
-Students must complete a minimum of two engagement options weekly
-(Monday 12:01 am - Sunday 11:59 pm) to fulfill participation
+Students **must** complete a minimum of **two engagement options
+weekly** (Monday 12:01 am - Sunday 11:59 pm) to fulfill participation
 requirements. Quizzes can be completed each week for one participation
 mark. Tiktoks can be done each week but do not count towards your word
 count for the course. You can choose to do 250-word paragraph responses
 each week, but they need to follow the requirements outlined in this
 syllabus. Other written forms of participation can only be done twice
-each during the entire course (i.e. you can only do 2 policy brief
+each during the entire course (i.e. you can only do 2 policy briefs
 summaries per semester). You can collaborate with peers on submissions,
 but they must be submitted individually. A total of 8 weeks of
-participation is required, allowing students to skip 4 weeks (e.g.,
-weeks 1,2 and 11, 12). Completing 8 weeks fulfills the full 70%. If the
-participation summary is submitted on the day of class it counts for an
-extra 5% (75% base grade). If you are submitting the same assignment for
-a second time, make sure to address 'What did I do differently this
-week?'
+participation is required, allowing students to skip 2 weeks (e.g.,
+weeks 1,2 and 11, 12). Completing 8 weeks fulfills the full 70%. If you
+are submitting the same assignment for a second time, make sure to
+address 'What did I do differently this week?'
 
-Weekly Engagement Options (a minimum of two options required per week):
+## Weekly Engagement Options (a minimum of two options required per week):
 
-1.  Brightspace Lesson Quiz Completion: Complete the 2 lesson quizzes in
-    the 'Tests & Quizzes' section. These quizzes are pass/fail; only
-    completion is counted, not quiz score. Each quiz counts for one
-    participation mark.
+1.  **Brightspace Lesson Quiz Completion**\
+    Complete the 2 lesson quizzes in the 'Tests & Quizzes' section.
+    These quizzes are pass/fail; only completion is counted, not quiz
+    score. Each quiz counts for one participation mark. In-class
+    exercises can also count for participation but are unlikely to help
+    you achieve your word count requirements.
 
-2.  Written Responses (250 words per lesson): A reflective analysis
-    engaging with lesson ideas and concepts from lectures, readings, or
-    both. This is not a summary but a critical engagement that links
-    material to current international issues. Proper essay paragraph
-    structure and intext citations are required where applicable. You
-    must reference the course readings at least three times per week to
-    get maximum grades. Submissions not meeting these standards are
-    ineligible for full credit. Each written response counts for one
-    participation mark. See detailed criteria below.
+2.  **Written Responses (250 words per lesson)**
 
-3.  Video Responses: A short (TikTok-style) video exploring a key
-    academic issue from each lesson's content, suitable for a general
-    audience. Videos must reference at least one academic, peer-reviewed
-    source from our reading list and can be uploaded to Brightspace each
-    week (or linked if hosted elsewhere). Public posting is not
-    required. Each video counts for one participation mark.
+- *Written Responses (250 words per lesson):* A reflective analysis
+  engaging with lesson ideas and concepts from lectures, readings, or
+  both. This is not a summary but a critical engagement that links
+  material to current Canada US relations. Proper essay paragraph
+  structure and intext citations are required where applicable. You must
+  reference the course readings at least three times per week to get
+  maximum grades. Submissions not meeting these standards are ineligible
+  for full credit. Each written response counts for one participation
+  mark. See detailed criteria below.
 
-4.  Other forms of participation from this list:
-    <https://uwaterloo.ca/centre-for-teaching-excellence/Assessment-AI-Strategies>
-    **EXCLUDING: TRUE/FALSE QUESTIONS, QUIZ, EXAMS AND TESTS,
-    FILL-IN-THE-BLANK QUESTIONS, CLOSE READING WITH QUESTIONS, DIAGRAM
-    OR IMAGE-BASED QUESTIONS, SUMMARY**. If you have any questions
-    please contact the instructor about the viability of your
-    participation.
+- *Other formatting of the 250 words from this list:*
+  <https://uwaterloo.ca/centre-for-teaching-excellence/Assessment-AI-Strategies>
+  **excluding**: True/False Questions, Quiz, Exams and Tests,
+  Fill-in-the-Blank Questions, Close Reading with Questions, Diagram or
+  Image-Based Questions, Summary. If you have any questions, please
+  contact the instructor about the viability of your participation.
 
-> Sample weekly participation submission:![Picture 565367195, Picture,
-> Picture](/media/image.png){width="4.989583333333333in"
-> height="1.78125in"}
+3.  **Video Responses (**does not count towards your total word count)\
+    A short (TikTok-style) video exploring a key academic issue from
+    each lesson's content, suitable for a general audience. Videos must
+    reference at least one academic, peer-reviewed source from our
+    reading list and can be uploaded to Brightspace each week (or linked
+    if hosted elsewhere). Public posting is not required. Each video
+    counts for one participation mark.
+
+> Sample weekly participation submission:![Picture 565367195,
+> Picture](/media/image2.png){width="4.989583333333333in"
+> height="1.7916666666666667in"}
 
 A Final calculation activity is **required** to receive your
 participation mark.
@@ -389,11 +391,16 @@ We will take your top 8 weeks.\
 \
 2 forms of participation per week = 70% (pass/fail)\
 \
-You should be able to demonstrate responding to my feedback, engaging
-with different course material each week **to demonstrate improvement
-throughout the course.**\
-\
-Attendance Bonus (5% on Final Essay or essay)
+More than 2 forms of participation each week, or substantive improvement
+can result in a higher grade (the 80, 85 and 90 grades below are
+approximations, I withhold the right to assess the quality of the
+submission and adjust the grade accordingly). You should be able to
+demonstrate your responses to my feedback, engaging with different
+course material each week to demonstrate improvement throughout the
+course. See Brightspace for an example of how to calculate your
+participation grade.
+
+## Attendance Bonus (5% on Final Exam ***or*** Essay)
 
 Students will receive a 1% bonus on their final exam or essay grade for
 every two classes attended (attendance must be recorded through the
@@ -501,7 +508,7 @@ similar essays to two or more different instructors are appended to this
 course outline and should be noted. (See 'Criteria for Evaluation of
 Written Assignments' below).
 
-## Summative Assignment 10% 
+## Summative Assignment 
 
 Due: End of Week 11 - Length: Minimum 2,500 words
 
