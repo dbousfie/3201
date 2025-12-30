@@ -7,7 +7,7 @@ const QUALTRICS_DATACENTER = Deno.env.get("QUALTRICS_DATACENTER");
 const SYLLABUS_LINK = Deno.env.get("SYLLABUS_LINK") || "";
 const OPENAI_MODEL = Deno.env.get("OPENAI_MODEL") || "gpt-4o-mini";
 
-// Define headers once to use everywhere
+// Define headers once to use everywhere (Fixes the CORS error)
 const corsHeaders = {
   "Access-Control-Allow-Origin": "*",
   "Access-Control-Allow-Methods": "POST, OPTIONS",
@@ -76,8 +76,9 @@ serve(async (req: Request): Promise<Response> => {
   const baseResponse = openaiJson?.choices?.[0]?.message?.content || "No response from OpenAI";
   const result = `${baseResponse}\n\nThere may be errors in my responses; always refer to the course web page: ${SYLLABUS_LINK}`;
 
-  // 7. Optional Qualtrics Logging
-  let qualtricsStatus = "Qualtrics not called";
+  // 7. Qualtrics Logging (Wrapped in try/catch to prevent crashing)
+  let qualtricsStatus = "Qualtrics not called (Check Env Vars)";
+  
   if (QUALTRICS_API_TOKEN && QUALTRICS_SURVEY_ID && QUALTRICS_DATACENTER) {
     try {
       const qualtricsPayload = {
@@ -98,15 +99,17 @@ serve(async (req: Request): Promise<Response> => {
 
       qualtricsStatus = `Qualtrics status: ${qt.status}`;
     } catch (e) {
-      qualtricsStatus = "Qualtrics failed";
+      console.error(e);
+      qualtricsStatus = "Qualtrics connection failed";
     }
   }
 
   // 8. Return Final Response
-  return new Response(`${result}\n`, {
+  // I changed '' to '[System Log:]' so it is forced to be visible in the browser
+  return new Response(`${result}\n\n[System Log: ${qualtricsStatus}]`, {
     headers: {
       "Content-Type": "text/plain",
-      ...corsHeaders, // Include CORS headers here too
+      ...corsHeaders,
     },
   });
 });
