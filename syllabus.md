@@ -119,11 +119,11 @@ periodical section at the Weldon or Law Libraries.
 | Paired debate/CEL (if offered)  | Paired debate/ CEL (if offered)    |
 | 25%                             | 25%                                |
 +---------------------------------+------------------------------------+
-| Essay 40% - Due at the end of   | 20% Written responses - (250 words |
-| Week 9 (March 16, 2026)         | minimum) + calculation Assignment  |
+| Essay 40% - Due at the end of   | Written responses 20% - (250 words |
+| Week 9 (March 23, 2026)         | minimum) + calculation Assignment  |
 |                                 | due                                |
 |                                 |                                    |
-|                                 | April 7, 2026.                     |
+|                                 | April 6, 2026.                     |
 +---------------------------------+------------------------------------+
 | Exam 20% - online exam during   | Exam 40% - online exam during the  |
 | exam period                     | exam period                        |
@@ -313,7 +313,7 @@ submitted to the system. Use of the service is subject to the licensing
 agreement, currently between The University of Western Ontario and
 Turnitin.com ([http://www.turnitin.com](http://www.turnitin.com/)).
 
-## Weekly Participation 
+## Weekly Work
 
 All students - Weekly participation 15%
 
@@ -499,7 +499,7 @@ given class discussion.
 5\) The paper MUST reference at least three of the specific legal
 case/decision/ juridical outcome (i.e. a key ICJ or International legal
 cases discussed throughout the course and in the Casenotes book. Failure
-to site a minimum of three cases will result in a failure to achieve
+to cite a minimum of three cases will result in a failure to achieve
 full grades. Substantive engagement with the course materials is also
 required, a failure to integrate the course readings will limit your
 ability to get full grades. YOU CANNOT CITE THE CASES DIRECTLY - all
