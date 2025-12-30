@@ -5,36 +5,40 @@ const QUALTRICS_API_TOKEN = Deno.env.get("QUALTRICS_API_TOKEN");
 const QUALTRICS_SURVEY_ID = Deno.env.get("QUALTRICS_SURVEY_ID");
 const QUALTRICS_DATACENTER = Deno.env.get("QUALTRICS_DATACENTER");
 const SYLLABUS_LINK = Deno.env.get("SYLLABUS_LINK") || "";
-// New: allow model override, default to gpt-4o-mini
 const OPENAI_MODEL = Deno.env.get("OPENAI_MODEL") || "gpt-4o-mini";
 
+// Define headers once to use everywhere
+const corsHeaders = {
+  "Access-Control-Allow-Origin": "*",
+  "Access-Control-Allow-Methods": "POST, OPTIONS",
+  "Access-Control-Allow-Headers": "Content-Type",
+};
+
 serve(async (req: Request): Promise<Response> => {
+  // 1. Handle CORS Preflight
   if (req.method === "OPTIONS") {
-    return new Response(null, {
-      status: 204,
-      headers: {
-        "Access-Control-Allow-Origin": "*",
-        "Access-Control-Allow-Methods": "POST, OPTIONS",
-        "Access-Control-Allow-Headers": "Content-Type",
-      },
-    });
+    return new Response(null, { status: 204, headers: corsHeaders });
   }
 
+  // 2. Enforce POST Method
   if (req.method !== "POST") {
-    return new Response("Method Not Allowed", { status: 405 });
+    return new Response("Method Not Allowed", { status: 405, headers: corsHeaders });
   }
 
+  // 3. Parse Body securely
   let body: { query: string };
   try {
     body = await req.json();
   } catch {
-    return new Response("Invalid JSON", { status: 400 });
+    return new Response("Invalid JSON", { status: 400, headers: corsHeaders });
   }
 
+  // 4. Check for API Key
   if (!OPENAI_API_KEY) {
-    return new Response("Missing OpenAI API key", { status: 500 });
+    return new Response("Missing OpenAI API key. Check Deno Environment Variables.", { status: 500, headers: corsHeaders });
   }
 
+  // 5. Load Syllabus
   const syllabus = await Deno.readTextFile("syllabus.md").catch(() =>
     "Error loading syllabus."
   );
@@ -42,8 +46,7 @@ serve(async (req: Request): Promise<Response> => {
   const messages = [
     {
       role: "system",
-      content:
-        "You are an accurate assistant. Always include a source URL if possible."
+      content: "You are an accurate assistant. Always include a source URL if possible."
     },
     {
       role: "system",
@@ -55,6 +58,7 @@ serve(async (req: Request): Promise<Response> => {
     },
   ];
 
+  // 6. Call OpenAI
   const openaiResponse = await fetch("https://api.openai.com/v1/chat/completions", {
     method: "POST",
     headers: {
@@ -64,7 +68,7 @@ serve(async (req: Request): Promise<Response> => {
     body: JSON.stringify({
       model: OPENAI_MODEL,
       messages,
-      max_tokens: 1500, // gives room for long answers
+      max_tokens: 1500,
     }),
   });
 
@@ -72,32 +76,37 @@ serve(async (req: Request): Promise<Response> => {
   const baseResponse = openaiJson?.choices?.[0]?.message?.content || "No response from OpenAI";
   const result = `${baseResponse}\n\nThere may be errors in my responses; always refer to the course web page: ${SYLLABUS_LINK}`;
 
+  // 7. Optional Qualtrics Logging
   let qualtricsStatus = "Qualtrics not called";
-
   if (QUALTRICS_API_TOKEN && QUALTRICS_SURVEY_ID && QUALTRICS_DATACENTER) {
-    const qualtricsPayload = {
-      values: {
-        responseText: result,
-        queryText: body.query,
-      },
-    };
+    try {
+      const qualtricsPayload = {
+        values: {
+          responseText: result,
+          queryText: body.query,
+        },
+      };
 
-    const qt = await fetch(`https://${QUALTRICS_DATACENTER}.qualtrics.com/API/v3/surveys/${QUALTRICS_SURVEY_ID}/responses`, {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "X-API-TOKEN": QUALTRICS_API_TOKEN,
-      },
-      body: JSON.stringify(qualtricsPayload),
-    });
+      const qt = await fetch(`https://${QUALTRICS_DATACENTER}.qualtrics.com/API/v3/surveys/${QUALTRICS_SURVEY_ID}/responses`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "X-API-TOKEN": QUALTRICS_API_TOKEN,
+        },
+        body: JSON.stringify(qualtricsPayload),
+      });
 
-    qualtricsStatus = `Qualtrics status: ${qt.status}`;
+      qualtricsStatus = `Qualtrics status: ${qt.status}`;
+    } catch (e) {
+      qualtricsStatus = "Qualtrics failed";
+    }
   }
 
-  return new Response(`${result}\n<!-- ${qualtricsStatus} -->`, {
+  // 8. Return Final Response
+  return new Response(`${result}\n`, {
     headers: {
       "Content-Type": "text/plain",
-      "Access-Control-Allow-Origin": "*",
+      ...corsHeaders, // Include CORS headers here too
     },
   });
 });
