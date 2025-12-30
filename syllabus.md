@@ -45,8 +45,6 @@ Turtle Island (North America).
 | **Office Hours   | Wednesday 11:00am-01:00pm via zoom - link in      |
 | via zoom**       | Brightspace                                       |
 +------------------+---------------------------------------------------+
-|                  | See your timetable                                |
-+------------------+---------------------------------------------------+
 | **Email:**       | dbousfie@uwo.ca                                   |
 +------------------+---------------------------------------------------+
 | **Text only      | 289-620-6665                                      |
@@ -120,7 +118,7 @@ periodical section at the Weldon or Law Libraries.
 | 25%                             | 25%                                |
 +---------------------------------+------------------------------------+
 | Essay 40% - Due at the end of   | Written responses 20% - (250 words |
-| Week 9 (March 23, 2026)         | minimum) + calculation Assignment  |
+| Week 10 (March 23, 2026)         | minimum) + calculation Assignment  |
 |                                 | due                                |
 |                                 |                                    |
 |                                 | April 6, 2026.                     |
@@ -1373,3 +1371,4 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     <https://web.archive.org/web/20210413194856/https://studentlife.oregonstate.edu/childcare/family-friendly-syllabi-examples>
 
 [^2]: From U-M Faculty Member Alisse Portnoy, English.
+
