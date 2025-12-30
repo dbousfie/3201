@@ -118,7 +118,7 @@ periodical section at the Weldon or Law Libraries.
 | 25%                             | 25%                                |
 +---------------------------------+------------------------------------+
 | Essay 40% - Due at the end of   | Written responses 20% - (250 words |
-| Week 10 (March 23, 2026)         | minimum) + calculation Assignment  |
+| Week 10 (March 23, 2026)        | minimum) + calculation assignment  |
 |                                 | due                                |
 |                                 |                                    |
 |                                 | April 6, 2026.                     |
@@ -132,7 +132,7 @@ periodical section at the Weldon or Law Libraries.
 This course requires a minimum of 2500 words of academic prose to meet
 university requirements for 3000-level half courses. This includes all
 essay-style paragraphs (weekly responses), and any additional written
-assignments.
+assignments in cluding the exam.
 
 ## For all written exercises, essays and exams in this course: 
 
@@ -322,17 +322,15 @@ participation mark. The group work must be recorded through the
 Microsoft form during the week of class, failure to document your group
 work makes it ineligible for participation.
 
-Missed classes
-
-For students choosing Option 1 (students writing an essay). Any missed
-weekly participation can be supplemented with a written response option
-below; however students writing the essay cannot achieve more than 15%
-on weekly participation.
+Missed classes - For students choosing Option 1 (students writing an
+essay). Any missed weekly participation can be supplemented with a
+written response option below; however students writing the essay cannot
+achieve more than 15% on weekly participation.
 
 Option 2 - (students choosing not to write an essay) Written responses
 20%
 
-Base submission is pass/fail 70% of the grade. 80% weekly for
+Base submission is a pass/fail 70% of the grade. 80% weekly for
 participation that is acceptable but needs substantive improvement. 85%
 for participation that is mostly acceptable. 90%+ for acceptable
 participation with the response in Brightspace being 'ok'.
@@ -393,8 +391,10 @@ grading. It creates a clear, fair structure for assessment. At the end
 of the course, students self-calculate their participation based on what
 they submitted each week. We only count your top 10 submissions. If
 there are any exceptional circumstances, please document them in your
-final attachment summary and explain how they impact your calculation.
-
+final attachment summary and explain how they impact your calculation. I
+reserve the right to reassess any or all participation during the final
+calculation.\
+\
 Sample calculation\
 w1 85 - 'more precise'\
 w2 85 - 'more precise'\
@@ -423,7 +423,7 @@ classes considered to earn the full 5% bonus. You can check your
 participation through the link in Brightspace weekly. You cannot receive
 more than 100% on the final exam or essay.
 
-## Term Assignment (due dates depend on assignment)
+## Term Assignment 
 
 Option 1 - Debate:
 
@@ -453,10 +453,9 @@ will present the debate and presentations may take alternative formats
 as long as they accomplish the requirements outlined above. In order to
 receive an individual mark students must post a short (200 word) summary
 of their role in the debate preparation and execution, assessing their
-groups' strengths and weaknesses in OWL under 'Assignments' under 'Term
-assignment -- Option 1 -- Debate'. All written work must use proper
-essay paragraph structure and conform to the 'criteria for the
-evaluation of written assignments' below or it cannot achieve full
+groups' strengths and weaknesses in Brightspace. All written work must
+use proper essay paragraph structure and conform to the 'criteria for
+the evaluation of written assignments' below or it cannot achieve full
 grades.
 
 ## Essay (if chosen) Due the end of Week 10 in Brightspace under 'assignments'. 
@@ -1371,4 +1370,3 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     <https://web.archive.org/web/20210413194856/https://studentlife.oregonstate.edu/childcare/family-friendly-syllabi-examples>
 
 [^2]: From U-M Faculty Member Alisse Portnoy, English.
-
