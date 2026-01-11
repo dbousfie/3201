@@ -42,7 +42,7 @@ Turtle Island (North America).
 +------------------+---------------------------------------------------+
 | **Instructor**   | Dan Bousfield                                     |
 +------------------+---------------------------------------------------+
-| **Office Hours   | Wednesday 11:00am-01:00pm via zoom - link in      |
+| **Office Hours   | Wednesday 11:00am-01:00pm and Thursday 1:00-2:20pm  via zoom - link in      |
 | via zoom**       | Brightspace                                       |
 +------------------+---------------------------------------------------+
 | **Email:**       | dbousfie@uwo.ca                                   |
@@ -1389,3 +1389,4 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     <https://web.archive.org/web/20210413194856/https://studentlife.oregonstate.edu/childcare/family-friendly-syllabi-examples>
 
 [^2]: From U-M Faculty Member Alisse Portnoy, English.
+
