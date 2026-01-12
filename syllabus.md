@@ -1390,3 +1390,20 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
 
 [^2]: From U-M Faculty Member Alisse Portnoy, English.
 
+Student questions:
+Q: where do I get the debate topics? 
+A: they are icj cases from the case notes legal brief
+
+Q: what do I have to do to get the 15% each week?
+A: the group work which is linked on the Google sheet, and the quiz that is available under assignments in brightspace
+
+Q: can I do the debate solo?
+A: yes, but it limits your ability to demonstrate you can work well with peers if you need a reference letter
+
+Q: if I'm doing option one what do I have to do each week?
+A: just the quiz in brightspace and the group work linked on the Google sheet
+
+Q: if I'm doing option two or three what do I have to do each week?
+A: option 2 and 3, require the quiz in brightspace, the group work each week, as well as a 250 word written response uploaded into brightspace under 'assignments' by Monday at 11:59 p.m.
+
+
