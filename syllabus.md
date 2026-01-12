@@ -1406,4 +1406,11 @@ A: just the quiz in brightspace and the group work linked on the Google sheet
 Q: if I'm doing option two or three what do I have to do each week?
 A: option 2 and 3, require the quiz in brightspace, the group work each week, as well as a 250 word written response uploaded into brightspace under 'assignments' by Monday at 11:59 p.m.
 
+Q: does the group work have to be completed in class?
+A: the group work can be completed anytime during the week but must be submitted by Monday at 11:59 p.m.
+
+Q: What are the CELs offered this semester?
+A: we do not currently know if we have any CEL placements, Dan will update everyone as soon as he knows
+
+
 
