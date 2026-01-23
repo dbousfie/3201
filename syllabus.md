@@ -1412,5 +1412,12 @@ A: the group work can be completed anytime during the week but must be submitted
 Q: What are the CELs offered this semester?
 A: we do not currently know if we have any CEL placements, Dan will update everyone as soon as he knows
 
+Q: what should I do if I miss a quiz?
+A: if you miss a quiz you can do an additional 250 word response and it will count for the 15%
+
+Q: what should I do if I miss a group work?
+A: if you miss a group work you can do an additional 250 word response and it will count for the 15%
 
 
+
+ 
