@@ -1421,7 +1421,11 @@ A: if you miss a group work you can do an additional 250 word response and it wi
 Q:when is the final exam?
 A: the final exam is a take-home exam held during the exam. There is already a sign up sheet available and a sample of the study guide at the bottom of the Google sheet, check the tabs at the bottom of the Google sheet
 
+Q: who is the reading impact of westphalia by - i need to cite it
+A: any course readings that are not explicitly cited or called course readings with a title will come from the reference text: Gerhard von Glahn , James Larry Taulbee 'Law Among Nations' Ninth Edition, 2009.
+
 
 
  
+
 
