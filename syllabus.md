@@ -1418,6 +1418,10 @@ A: if you miss a quiz you can do an additional 250 word response and it will cou
 Q: what should I do if I miss a group work?
 A: if you miss a group work you can do an additional 250 word response and it will count for the 15%
 
+Q:when is the final exam?
+A: the final exam is a take-home exam held during the exam. There is already a sign up sheet available and a sample of the study guide at the bottom of the Google sheet, check the tabs at the bottom of the Google sheet
+
 
 
  
+
