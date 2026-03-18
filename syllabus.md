@@ -1495,6 +1495,16 @@ office hours tomorrow from 1:00 till 2:00 p.m. On Zoom.
 
 Best, Dan
 
+Message sent to student on March 18th
+
+Yes, I will be sending out an extension notification about 1 to 2 days before the essay is due. I wait until the last minute to allow people to get started on the essay, if they are notified too early they won't start.
+
+I always ask for the essay extension in writing over email with a new expected submission date.
+
+I still continue to mark on a first in first out basis, and students with extensions are not guaranteed to get them back in time to revise and resubmit. All essays are due before you write your exam.
+
+Let me know if you have any other questions, Dan
+
 
 
 
