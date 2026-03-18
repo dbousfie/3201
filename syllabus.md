@@ -1443,6 +1443,59 @@ Once we have the structure down, everything should be good to go - I will mostly
 
 The paragraph requirements are the same for the essay and the exam so getting them right in the paragraphs is a good foundation for all of the other grading in the course. I would say the single biggest factor impacting essay and exam grades was the lack of either citation or paragraph structure.'
 
+This message was sent to students on March 18th
+
+Hi all
+
+Just a few reminders about essays.
+
+1\. The topic needs to be approved and on the list, and [you have a
+specific question that you have to answer
+here](https://docs.google.com/spreadsheets/d/1NOUB0_EfYskpo9QicrnfGZV-LSAehLxdOt8cOLA1yXg/edit?gid=1611888004#gid=1611888004&range=C2).
+
+There is [also a relevant prompt
+here](https://docs.google.com/spreadsheets/d/1NOUB0_EfYskpo9QicrnfGZV-LSAehLxdOt8cOLA1yXg/edit?gid=1611888004#gid=1611888004&range=I2),
+but some people seem to be confused. All of your analytical sources need
+to be from peer-reviewed academic journals or books  like those
+available on Google Scholar. The ICJ cases are only relevant to the
+extent to which you can find them in academic sources. **YOU CANNOT CITE
+CASES DIRECTLY. **We are not lawyers, you are not allowed to do any
+primary research, and we are not qualified to look directly at cases,
+laws or resolutions.** The casenotes legal brief is not an academic
+source**. Instead take relevant ICJ cases and use Google Scholar to
+search your topic + the relevant icj case = good academic sources. So
+for example we would take our issue ie. \'drones\' + Nicaragua ICJ 
+\--\> [find academic
+sources](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=drones+Nicaragua+icj+International+court+of+justice&btnG=).
+
+2\. Everyone has one *revise-and-resubmit* as long as the essay is
+submitted by the deadline. I use a first-in-first-out system, and you
+have until the date YOU write the exam to provide your revisions. [There
+are specific revise and resubmit instructions available
+here.](https://westernu.brightspace.com/d2l/le/lessons/157561/topics/3738927)
+
+3\. Also remember that the mandatory [paragraph
+requirements](https://uwoca-my.sharepoint.com/:w:/g/personal/dbousfie_uwo_ca/IQCSDIbRmDNGRrjQkvnRC5EsARpzsEaztQZ1mCHDXkri4Vc?e=Q8lrYf) from
+the course outline are specifically designed to make them resistant to
+generating essays. Additionally as I have maintained throughout the
+course. **I do not want to see scare quotes in your essays or on the
+exams, replace them with italics or bolding. **I am increasingly
+inclined to make all quotations directly from a text be a minimum of two
+lines. This is because most AI bots are restricted from using more than
+15 words directly from any text for copyright reasons. That\'s why
+we\'ve seen a proliferation of Frankenquotes. Please remember that I
+will be checking all of your page numbers, for all of your citations and
+reviewing the cited text. It takes forever but it\'s the only way to be
+sure, I will look at the page and make sure that the citation isn\'t
+hallucinated.** You must have direct quotes and page numbers for all
+citations.**
+
+Please reach out if you have any questions or concerns I have bonus
+office hours tomorrow from 1:00 till 2:00 p.m. On Zoom.
+
+Best, Dan
+
+
 
 
 
