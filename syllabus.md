@@ -1524,6 +1524,56 @@ That's a good question. Realistically, you should try to get it in as soon as yo
 Best, Dan
 
  
+Hi all,
+
+Just a few reminders about the essay.
+
+This is a political science course about international law, every year
+we have a problem in the framing of the essay. In previous years it was
+that students wrote too much like political science and didn\'t engage
+with the debate cases that everyone does each week. To address that I
+focused on those cases with the inevitable problem that you aren\'t
+making arguments.
+
+This is a political science course, you need to have a coherent
+framework to explain what\'s happening in your topic. This requires
+additional academic sources, you should be primarily getting through
+Google Scholar. I do have a backup list of sources that students used in
+the past I wasn\'t sure if I would use it anymore because they\'re
+getting a bit old, but it\'s certainly helpful if you haven\'t found any
+sources yet. [The list is
+here](https://finallystudying.ca/wiki/index.php/3201essays).
+
+Remember that we have paragraph requirements, and that in general it\'s
+advised to use **direct quotations that are longer than two lines**,
+otherwise you risk creating \'Frankenquotes\' where you effectively
+ignore the evidentiary value of the author and instead use the text to
+reinforce a point you were already going to make. It\'s quite common
+when you generate papers with AI. AI also loves to avoid nouns (people,
+places and things) so specificity is important.
+
+Remember that if you need an extension you just need to email me with
+the new expected submission date, and I will reply with \'sure, no
+problem\'; these should be realistic dates, the deadline is tonight at
+midnight nothing about the extension changes that, and you shouldn\'t be
+submitting into the exam period.\
+\
+Remember the [revise and resubmit instructions are
+here](https://westernu.brightspace.com/d2l/le/lessons/157561/topics/3738927),
+I use a first in first-out system, I also have a [updated essay queue
+here](https://westernu.brightspace.com/d2l/le/lessons/157561/topics/3742034),
+so you can see how many people are in front of you. In general if you
+have your paper in before the beginning of the exam period you should
+still be able to get a revise and resubmit in before you write the exam.
+
+You [need to sign up for the take home exam, I will be locking the sign
+up page because I need to put all of the exams in the queue, please sign
+up
+ASAP](https://docs.google.com/spreadsheets/d/1NOUB0_EfYskpo9QicrnfGZV-LSAehLxdOt8cOLA1yXg/edit?gid=1516506818#gid=1516506818&range=A1).
+
+Please reach out if you have any questions or concerns,
+
+Dan
 
 
 
