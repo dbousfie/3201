@@ -1575,6 +1575,81 @@ Please reach out if you have any questions or concerns,
 
 Dan
 
+Hi all,
+
+I\'m working through the essays and I have some substantive concerns.
+
+I feel like most people did not review [the sample papers available
+here](https://docs.google.com/spreadsheets/d/1NOUB0_EfYskpo9QicrnfGZV-LSAehLxdOt8cOLA1yXg/edit?gid=743044020#gid=743044020&range=A1).
+If you do you would realise that the ICJ cases are just a minimal
+requirement to understand the idea of state obligation, they are not
+relevant to the argument of the paper. ICJ cases are just references to
+state obligation and that\'s it. As I have said frequently ***what
+states do and what states say*** constitutes customary international law
+so your paper should be about what states do and what states say (state
+obligation in specific historical circumstances).
+
+You are answering the question in terms of the specific events,
+instances, people and places that provide clear evidence of what states
+do and how they do it. **This is a political science course** so you
+need history, you need specific states and what they\'ve done, and
+specific instances and actors (nouns) as required by the course outline.
+Very few if any of the questions ask you to assess international law in
+general, and ***no question will ever ask you to assess the efficacy of
+international law.*** It has nothing to do with the way this course is
+framed. If you are using words like \'loopholes\', \'contradictions\' or
+\'paradoxes\' you are going to be missing the point of the exercise.
+Moreover the pervasive use of negative language is common in chatbots
+when they don\'t have a clear argument driving their responses. I set up
+a tool that can [check your paragraphs to see if they have largely been
+framed in the
+negative](https://docs.google.com/spreadsheets/d/1NOUB0_EfYskpo9QicrnfGZV-LSAehLxdOt8cOLA1yXg/edit?gid=2074768927#gid=2074768927&range=A18)
+and therefore lack clear declarative sentences that are the foundation
+of a good argument.
+
+Next the paragraph requirements exist for a reason. You need to have
+topic sentences in your own voice. As I have mentioned in the course
+outline, I don\'t think there should be any citations in an introductory
+paragraph; it should outline your arguments, map the argument for the
+reader and avoid description as much as possible. [If you want a tool to
+check that I\'ve got one
+here.](https://docs.google.com/spreadsheets/d/1NOUB0_EfYskpo9QicrnfGZV-LSAehLxdOt8cOLA1yXg/edit?gid=2074768927#gid=2074768927&range=A19)
+I created these tools this week because **the requirements the tools
+check are already explicitly in the course outline.** You\'re not
+allowed to paraphrase. You aren\'t allowed to refer to primary documents
+such as UN Security Council decisions, resolutions or the ICJ cases
+themselves because they are not academic sources. This will be the
+requirements for the exam as well:
+
+***Citation guidelines for the final exam: Follow the paragraph
+structure in the course outline. No hedging or noncommittal conditionals
+(\"if X then Y,\" \"it could be argued\"). No scare quotes. No ellipses
+in quotations --- all quoted passages must be reproduced in full.
+Quotations must capture the author\'s argument or analysis, not just
+facts that match your point. Don\'t summarize sources --- engage with
+them. Questions or concerns? Contact Dan.***
+
+You also need to engage with the ideas of our course, in the essay and
+the exam. The ideas from this course matter and they should be reflected
+in your essay.
+
+Everyone has one revise and resubmit [so long as they follow the
+requirements that are
+here](https://westernu.brightspace.com/d2l/le/lessons/157561/topics/3738927).
+The grade can only increase if you follow the requirements. If you
+don\'t I can assign any grade. Students who submitted on time are
+guaranteed to receive their first draft back before they write the exam,
+but everyone else will have to see how busy the essay queue is. [You can
+track the essay queue
+here. ](https://westernu.brightspace.com/d2l/le/lessons/157561/topics/3742034)I\'m
+a little concerned that people didn\'t reach out to talk to me before
+submitting the paper, it\'s always a good idea to review your
+assignments during office hours if you can. 
+
+Sorry for the long message, reach out if you have any questions.
+
+Dan
+
 
 
 
