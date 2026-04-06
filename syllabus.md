@@ -1650,6 +1650,69 @@ Sorry for the long message, reach out if you have any questions.
 
 Dan
 
+April 6th 2026
+Hi all
+
+I hope you had a good holiday weekend.
+
+Reminder that class will start tomorrow at 9:30am (an hour later than
+usual) but I\'m just doing a Jeopardy as exam review, there\'s no
+content for the week. I\'m happy to meet with people to talk about
+papers, but I still have many in the queue at this point. I\'m hoping to
+get to them by Saturday.
+
+Other things:
+
+1.  You must sign up for a take-home exam ASAP. I will be locking the
+    page on Thursday at midnight. All changes after that time will need
+    to be done over email. I[f you haven\'t done so already, sign up
+    here
+    ASAP.](https://docs.google.com/spreadsheets/d/1NOUB0_EfYskpo9QicrnfGZV-LSAehLxdOt8cOLA1yXg/edit?gid=1516506818#gid=1516506818&range=A1)
+
+2.  If you just did the group work and quizzes each week, you don\'t
+    need to calculate anything. I will have a tool up shortly so you can
+    double check everything. Any missed quizzes or group work can be
+    remediated by doing an additional written response for each missed
+    assignment, those all need to be completed by April 9th.
+
+3.  Calculation of participation ***for people who did reading
+    responses***. Only people who did reading responses need to
+    calculate their participation grades following the course outline,
+    and by submitting them under \'assessments\' \--\> \'assignments\'.
+    These need to be submitted by April 9th, they could not be completed
+    entirely until week 12 ended which is tonight at midnight.
+
+4.  All debates and first drafts of essays need to be in by April 9th.
+
+5.  Revise and resubmission of papers [must follow the instructions
+    here](https://westernu.brightspace.com/d2l/le/lessons/157561/topics/3738927),
+    and needs to be completed before you write your exam. 
+
+6.  Changes to exam wording. Please make sure that you review [the exam
+    study guide
+    here](https://docs.google.com/spreadsheets/d/1NOUB0_EfYskpo9QicrnfGZV-LSAehLxdOt8cOLA1yXg/edit?gid=739965967#gid=739965967&range=A2).
+    There have been updated changes to the requirements for citation
+    (following what has been expected all semester). There have been
+    language changes to ensure that you explain clearly why a term or
+    concept is related to our course in an argument with evidence.
+    Simply being \'related\' to the course content is not going to be
+    sufficient. Make sure that you review the exam study guide. The
+    instructions will also be included when you are emailed your exam.
+
+7.  My office hours on Wednesday are cancelled this week because I have
+    a scheduled medical appointment. I should be able to meet during my
+    additional office hours on Thursday, or you can email me to set up a
+    scheduled Zoom time. 
+
+8.  Remember that there is an [essay queue available
+    here.](https://westernu.brightspace.com/d2l/le/lessons/157561/topics/3742034)
+    I am working through papers via the first in first out system, so
+    everyone who submitted on time should have received feedback.
+    Everyone else I am working through ASAP in order.
+
+If you have any questions reach out ASAP
+
+Best, Dan
 
 
 
