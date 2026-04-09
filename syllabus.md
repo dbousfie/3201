@@ -1714,7 +1714,21 @@ If you have any questions reach out ASAP
 
 Best, Dan
 
+Hi all
 
+I will be locking the take home exam sign up tonight, all changes after today will have to be done directly with me over email.
+Essay 'no grades' - if I haven't provided a grade on an essay that is on purpose. It's because assigning one at this point might not be as productive as starting the revisions. I would certainly assign one if I do not receive revisions by the time you write the exam. I will include a broad summary I used in my other class at the bottom of this message to explain the different grade ranges on the first submission of the essay.
+Today is the last day to submit the written calculation for students who did reading responses. I need them in order to assign the grade otherwise I will have to go through and be more conservative in my assessment.
+Today is the last day for 'defection' from Option 1 (essay + exam) into Option 2 (reading responses + exam). If you are defecting from writing the essay into the 40% exam, you need to submit 10 reading responses under 'assessments' --> 'assignments'-->' calculating participation'. As they are being submitted all at once you cannot get a grade above 70 on those submissions (they are strictly pass/ fail) because there was no feedback mechanism throughout the course. 
+I'm in my office until about 11:15 if you need to chat over Zoom. Please reach out if you have any questions or concerns
+
+Dan
+
+What your first essay grade means:
+No grade - you might need to rethink the topic choice, or the way you have approached the issue
+60-70 - there are substantive issues in the structure of the paper​
+70-80 - things are okay they just need some clear fixing​
+80-90 - you are fine you just need to make a few revisions in track changes​
 
 
 
